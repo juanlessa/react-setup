@@ -1,6 +1,6 @@
 # React Setup
 
-This project is the starter of my studies about ReactJs.
+This project is the beggining of my studies on ReactJs.
 This repository contains the babel and webpack base setup settings to do a react project.
 
 ## Motivation
